@@ -28,6 +28,6 @@ A machine learning web application that predicts the likelihood of heart disease
 └── README.md
 └── app.py
 
-##Author
+## Author
 
 Hasina Aslam
