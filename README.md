@@ -15,13 +15,10 @@ A machine learning web application that predicts the likelihood of heart disease
 * Streamlit
 * Pandas
 * NumPy
+* Matplotlib 
 * Scikit-learn
 
-## Run Locally
 
-
-pip install -r requirements.txt
-streamlit run app.py
 
 ## Project Structure
 
