@@ -1,28 +1,36 @@
-HEART DISEASE PREDICTION: 
-A machine Learning project that predicts the liklihood of heart disease based on medical inputs.
-Includes model training and a simple Streamlit web app.
+# Heart Disease Prediction App
 
-TECH STACK:
-Python 
-Pandas, Numpy
-Scikit-learn
-Streamlit
+A machine learning web application that predicts the likelihood of heart disease based on patient health parameters and medical attributes.
 
-FILES:
-app.py
-Heart-Disese.ipynb
-Heart-Disease.csv
-.gitignore
+## Features
 
-RUN PROJECT:
-git clone https://github.com/hasina237/Heart-Disease-Project.git
-cd Heart-Disease-Project pip install pandas numpy scikit-learn streamlit run app.py
+* Interactive Streamlit interface
+* Real-time heart disease prediction
+* Easy-to-use medical input form
+* Machine learning-based analysis
 
-FEATURES:
-User input prediction
-Simple UI
-fast results
+## Technologies Used
 
-AUTHOR:
-Hasina Aslam 
-GitHub:https://github.com/hasina237
+* Python
+* Streamlit
+* Pandas
+* NumPy
+* Scikit-learn
+
+## Run Locally
+
+
+pip install -r requirements.txt
+streamlit run app.py
+
+## Project Structure
+
+├── .gitignore
+├── Heart-Disease.csv
+├── Hear-Disease.ipynb
+└── README.md
+└── app.py
+
+##Author
+
+Hasina Aslam
